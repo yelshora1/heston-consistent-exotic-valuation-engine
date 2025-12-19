@@ -1,5 +1,5 @@
 # Heston Exotic Valuation Engine
-
+Project uploaded to GitHub OCTOBER. Started in my local device around MAY.
 A Python pricing engine that calibrates the **Heston stochastic volatility model** to live market option data and uses those parameters to price path-dependent exotic derivatives via Monte Carlo simulation.
 
 ## What It Does
